@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart AI Study Planner
 
 ## Overview
@@ -34,3 +35,6 @@ python main.py
 
 ## Author
 Najim Ansari
+=======
+# smart-study-planner-
+>>>>>>> 62cde5e41a5d51dc7799b4781e42425344edb77d
